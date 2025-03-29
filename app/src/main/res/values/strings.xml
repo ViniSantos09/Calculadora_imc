@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">androidNI</string>
+    <string name="tituloPrincipal">Calculadora IMC</string>
+    <string name="imgPrincipal_description">Logo IMC</string>
+    <string name="peso">Peso: 80</string>
+    <string name="altura">Altura: 1.80</string>
+    <string name="btnFechar">Fechar</string>
+    <string name="btnLimpar">Limpar</string>
+    <string name="btnCalcular">Calcular IMC</string>
+
+    <!-- Mensagem em cada tela-->
+    <string name="mensagem_abaixodopeso">Lembre-se, a saúde é o mais importante! É essencial encontrar o equilíbrio certo para o seu corpo. Procure ajuda de um especialista para melhorar sua alimentação e atingir o peso ideal de forma saudável. Você é incrível e está no caminho certo para se sentir ainda melhor!</string>
+    <string name="mensagem_obesidade1">Você está no controle da sua jornada para uma vida mais saudável! Cada pequeno passo conta e, com determinação, você pode conquistar grandes resultados. Lembre-se: não é sobre perfeição, mas sobre progresso. Busque apoio, cuide de si mesmo e celebre cada conquista ao longo do caminho. Você é capaz de transformar sua saúde e se sentir ainda melhor!</string>
+    <string name="mensagem_obesidade2">A jornada para uma vida mais saudável começa com o primeiro passo, e você já está em movimento! Lembre-se de que cada esforço, por menor que pareça, é uma vitória. Com apoio, paciência e determinação, você pode alcançar seus objetivos. A mudança é possível, e você é mais forte do que imagina. Não desista, pois o melhor ainda está por vir!</string>
+    <string name="mensagem_obesidade3">Você é mais forte do que pensa e cada dia é uma nova oportunidade para recomeçar. O caminho para a mudança pode ser desafiador, mas você não está sozinho(a) nessa jornada. Procure apoio, cuide da sua saúde e lembre-se de que um passo de cada vez é o suficiente. Acredite em sua capacidade de transformar sua vida e alcançar a saúde que você merece. A mudança começa agora, e você tem todo o poder para conquistá-la!</string>
+    <string name="mensagem_pesonormal">Parabéns! Você está cuidando de sua saúde de forma incrível. Manter o peso ideal é uma conquista, mas lembre-se de que o mais importante é continuar priorizando o bem-estar, a alimentação balanceada e o autocuidado. Continue assim, pois cada escolha saudável reflete no seu corpo e na sua vida. Você está no caminho certo e sua saúde é o seu maior tesouro!</string>
+    <string name="mensagem_sobrepeso">Você está no caminho para transformar sua saúde e alcançar seus objetivos! O sobrepeso é apenas uma etapa da jornada, e o importante é a decisão de fazer mudanças. Lembre-se de que cada passo em direção ao cuidado com seu corpo é uma vitória. Com foco, determinação e apoio, você pode conquistar a saúde que deseja. Acredite em si mesmo, pois você tem a força necessária para alcançar grandes resultados!</string>
+
+
+
 </resources>
